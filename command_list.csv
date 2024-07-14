@@ -1,0 +1,105 @@
+    1  nano empty.txt
+    2  clear
+    3  pwd
+    4  cp /c/Users/USER
+    5  clear
+    6   ping google.com
+    7  clear
+    8  date
+    9  system_profiler
+   10  clear
+   11  clear
+   12  cd
+   13  git config ~~global user.name "NataCV'
+   14  clear
+   15  cd Desktop
+   16  cd QA37
+   17  git config --global user.name "NataCV"
+   18  git config --global user.email "natulla.ng@gmail.com"
+   19  pwd
+   20  git clone https://github.com/NataCV/HW_10.git
+   21  cd QA37
+   22  git status
+   23  touch text_ignore.txt
+   24  gi status
+   25  git status
+   26  clear
+   27  cd Desktop
+   28  cd QA37
+   29  clear
+   30  cd QA37
+   31  clear
+   32  cd Desktop
+   33  cd Desktop
+   34  cd QA37
+   35  git config --global user.name "NataCV"
+   36  git config --global user.email natulla.ng@gmail.com
+   37  git clone https://github.com/NataCV/HW_10.git
+   38  cd Desktop
+   39  cd QA37
+   40  git config --global user.name "NataCV"
+   41  git config --global user.email natulla.ng@gmail.com
+   42  git clone https://github.com/NataCV/HW_10.git
+   43  git clone https://github.com/NataCV/HW_10.git
+   44  cd Desktop
+   45  cd QA37
+   46  git config --global user.name "NataCV"
+   47  git config --global user.email natulla.ng@gmail.com
+   48  git clone https://github.com/NataCV/HW_10.git
+   49  cd Desktop
+   50  cd QA37
+   51  git config --global user.name "NataCV"
+   52  git config --global user.email natulla.ng@gmail.com
+   53  git clone https://github.com/NataCV/HW_10.git
+   54  cd HW_10/
+   55  touch text_ignore.txt
+   56  nano .gitignore
+   57  git status
+   58  git add .gitignore
+   59  git status
+   60  git commit -m "Created a new file named text_ignore and added its name to gitignore file"
+   61  touch main_test.txt
+   62  git add .
+   63  git commit -m "Created a new file named main_test.txt"
+   64  git checkout -b develop
+   65  touch develop_test.txt
+   66  git add .
+   67  git commit -m "Created a new file named develop_test.txt"
+   68  nano develop_test.txt
+   69  git status
+   70  git add .
+   71  git commit -m "Modified file named develop_test.txt file"
+   72  git checkout main
+   73  git merge develop
+   74  git log
+   75  git add .
+   76  git commit -m "Unloaded history"
+   77  git push
+   78  git push
+   79  cd Desktop
+   80  cd QA37
+   81  git config --global user.name "NataCV"
+   82  git config --global user.email natulla.ng@gmail.com
+   83  git clone https://github.com/NataCV/HW_10.git
+   84  cd HW_10/
+   85  touch text_ignore.txt
+   86  nano .gitignore
+   87  git status
+   88  git add .gitignore
+   89  git status
+   90  git commit -m "Created a new file named text_ignore and added its name to gitignore file"
+   91  touch main_test.txt
+   92  git add .
+   93  git commit -m "Created a new file named main_test.txt"
+   94  git checkout -b develop
+   95  touch develop_test.txt
+   96  git add .
+   97  git commit -m "Created a new file named develop_test.txt"
+   98  nano develop_test.txt
+   99  git status
+  100  git add .
+  101  git commit -m "Modified file named develop_test.txt file"
+  102  git checkout main
+  103  git merge develop
+  104  git log
+  105  history > command_list.csv
